@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pdf2DocX", "Pdf2DocX\Pdf2DocX.csproj", "{BD8888E4-0E03-47D5-9A53-D044FFCA771E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD8888E4-0E03-47D5-9A53-D044FFCA771E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD8888E4-0E03-47D5-9A53-D044FFCA771E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD8888E4-0E03-47D5-9A53-D044FFCA771E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD8888E4-0E03-47D5-9A53-D044FFCA771E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA4D8D15-03B2-4D52-BC37-BDD6F8F5AC67}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net8.0-windows</TargetFramework>
+		<UseWindowsForms>true</UseWindowsForms>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<AssemblyVersion>1.0.0.1</AssemblyVersion>
+		<FileVersion>1.0.0.1</FileVersion>
+		<EnableCompressionInSingleFile>true</EnableCompressionInSingleFile>
+		<ApplicationIcon>converter.ico</ApplicationIcon>
+	</PropertyGroup>
+	
+	<ItemGroup>
+		<Content Include="converter.ico" />
+		<PackageReference Include="AntdUI" Version="1.7.0" />
+		<PackageReference Include="DocumentFormat.OpenXml" Version="3.1.1" />
+		<PackageReference Include="FreeSpire.Office" Version="8.2.0" />
+		<PackageReference Include="iTextSharp.LGPLv2.Core" Version="3.4.22" />
+	</ItemGroup>
+</Project>
